@@ -1,0 +1,25 @@
+public int age = 13
+public string name = "danylo"
+Public float time = 3.4f
+public bul status = false
+
+Public int my age ()
+{
+return 13
+}
+public string me name ()
+{
+return "danylo"
+}
+public float TimeIsNow ()
+}
+10f
+{
+public bool is movecar ()
+}
+returne false
+{
+public void MoveCar ()
+}
+false
+{
